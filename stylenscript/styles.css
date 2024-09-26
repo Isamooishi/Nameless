@@ -148,10 +148,7 @@ b { /*alternative font options*/
     font-weight: bold;
 	word-spacing: 10px;
 }
-body {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-  }
+
   
   .topnav {
     position: sticky;
