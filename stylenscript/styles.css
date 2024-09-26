@@ -154,6 +154,7 @@ body {
   }
   
   .topnav {
+    position: sticky;
     overflow: hidden;
     background-color: #600079;
   }
